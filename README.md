@@ -6,7 +6,7 @@
 
 ## About Me
 
--  Sup I'm Linus, I've been making Discord.js bots for a bit under a year!
+-  uihreghuhj
 
 
 

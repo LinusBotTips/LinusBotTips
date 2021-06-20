@@ -10,7 +10,6 @@
 [![Discord Bots](https://top.gg/api/widget/789728637003366450.svg)](https://top.gg/bot/789728637003366450)
 
 
-[Link button](http://example.com/){: .btn }
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusBotTips&show_icons=true&locale=en&layout=compact" alt="LinusBotTips" /></p>
 

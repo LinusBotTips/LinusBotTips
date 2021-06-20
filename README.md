@@ -7,6 +7,7 @@
 ## About Me
 
 -  I’m currently working on [Modex](https://modexbot.xyz)
+[![Discord Bots](https://top.gg/api/widget/789728637003366450.svg)](https://top.gg/bot/789728637003366450)
 
 
 

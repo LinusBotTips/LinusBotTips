@@ -4,7 +4,7 @@
 
 
 ## About Me
-# 
+# I am primarily a [Discord.js](https://discord.js.org/#/) dev
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LinusBotTips&show_icons=true&locale=en&layout=compact" alt="LinusBotTips" /></p>
 

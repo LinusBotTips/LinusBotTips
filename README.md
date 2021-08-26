@@ -1,11 +1,6 @@
 
 # Linus Bot Tips
 
-
-
-## About Me
-# I am primarily a [Discord.js](https://discord.js.org/#/) dev
-
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="40px" src="https://i.imgur.com/SI1DZf3.png" />

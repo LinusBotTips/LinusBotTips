@@ -15,6 +15,6 @@
 <h1 align="center"> Discord Status: </h1>
 <p align="center">
 <a href="https://discord.com/users/403657714812715008">
-  <img height="80px" src="https://discord.c99.nl/widget/theme-1/800331322089537538.png">
+  <img height="80px" src="https://discord.c99.nl/widget/theme-1/403657714812715008.png">
 </a>
 </p>

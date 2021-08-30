@@ -8,7 +8,7 @@
 <h1 align="center"> I am working on: </h1>
 <p align="center">
 <a href="https://top.gg/bot/753744229519327309">
-  <img src="https://top.gg/api/widget/753744229519327309.svg" alt="Dischord" />
+    <img src="https://top.gg/api/widget/753744229519327309.svg" height="165">
   </a>   
 </p>
 <h1 align="center"> Stats: </h1>

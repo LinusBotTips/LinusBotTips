@@ -23,7 +23,7 @@
   <br>
 </p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/61235212-b646-4706-a3db-e3b72b84bf8d.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/daa6d22f-831b-4880-9f39-fda84191abb0.png" /></a>
 
 <h1 align="center"> Discord Status: </h1>
 <p align="center">

@@ -24,7 +24,7 @@
 </p>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/daa6d22f-831b-4880-9f39-fda84191abb0.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/86e9cdba-4b22-42cb-a207-eda3f46319eb.png" /></a>
 <h1 align="center"> Discord Status: </h1>
 <p align="center">
 <a href="https://discord.com/users/403657714812715008">

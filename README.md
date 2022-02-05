@@ -5,12 +5,7 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="40px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40px" />
-<h1 align="center"> I am working on: </h1>
-<p align="center">
-<a href="https://top.gg/bot/753744229519327309">
-    <img src="https://top.gg/api/widget/753744229519327309.svg" height="165">
-  </a>   
-</p>
+
 <h1 align="center"> Stats: </h1>
 
 <p align="center">
@@ -24,9 +19,8 @@
 </p>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/daa6d22f-831b-4880-9f39-fda84191abb0.png" /></a>
-<img src="https://spotify-image-thingy.vercel.app/api/now-playing">
-<h1 align="center"> Discord Status: </h1>
 <p align="center">
+   <img src="https://spotify-image-thingy.vercel.app/api/now-playing">
 <a href="https://discord.com/users/403657714812715008">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/403657714812715008.png">
 </a>

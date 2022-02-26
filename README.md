@@ -18,11 +18,9 @@
   <br>
 </p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@77972b7d-2db6-4f00-a6a4-81bda2efa3e8/daa6d22f-831b-4880-9f39-fda84191abb0.png" /></a>
-
-<a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LinusBotTips" /></a>
 
 <p align="center">
+  <a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LinusBotTips" /></a>
    <img src="https://spotify-image-thingy.vercel.app/api/now-playing">
 <a href="https://discord.com/users/403657714812715008">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/403657714812715008.png">

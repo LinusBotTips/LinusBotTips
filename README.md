@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LinusBotTips" /></a>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinusBotTips)](https://github.com/anuraghazra/github-readme-stats)
    <img src="https://spotify-image-thingy.vercel.app/api/now-playing">
 <a href="https://discord.com/users/403657714812715008">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/403657714812715008.png">

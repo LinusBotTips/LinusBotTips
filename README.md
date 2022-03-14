@@ -19,6 +19,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=linusbottips&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444">
    <img src="https://spotify-image-thingy.vercel.app/api/now-playing">
+     <img src="https://spotify-image-thingy.vercel.app/api/top-played">
+
 <a href="https://discord.com/users/403657714812715008">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/403657714812715008.png">
 </a>

@@ -20,6 +20,6 @@
      <img src="https://spotify-image-thingy.vercel.app/api/top-played">
 
 <a href="https://discord.com/users/403657714812715008">
-  <img height="80px" src="https://lanyard-profile-readme.vercel.app/api/403657714812715008?theme=dark&animated=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
+  <img src="https://lanyard-profile-readme.vercel.app/api/403657714812715008?theme=dark&animated=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
 </a>
 </p>
